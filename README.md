@@ -14,6 +14,14 @@ I'm `caseyweb` (Caseyrhodes), a 19 year developer passionate about AI, chatbots 
 ### GITHUB TROPHIES
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=caseyweb)
 
+## TAP HERE TO VIEW MY CURRENT PROJECT
+
+</p>
+<p align="center"><img src="https://profile-counter.glitch.me/{caseyweb}/count.svg" alt="CASEYRHODES-XMD :: Visitor's Count"/></p>
+
+        ```To open Dullah Md Repo Tap This Image There Is not Safe Use Original Repo To Get Update```
+[![Tap To Open Repo](https://i.imgur.com/1DHOg3Z.gif)](https://github.com/abdallahsalimjuma/Dullah_Md )
+
 
 
 ### CONNECT WITH ME 
