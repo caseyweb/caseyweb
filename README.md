@@ -17,9 +17,9 @@ I'm `caseyweb` (Caseyrhodes), a 19 year developer passionate about AI, chatbots 
 
 
 ### TOP CONTRIBUTIONS
-![](https://github-contributor-stats.vercel.app/api?username=Dark-Xploit&limit=5&theme=black&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=caseyweb&limit=5&theme=black&combine_all_yearly_contributions=true)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dark-Xploit&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=caseywebt&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph
 
 ### CONNECT WITH ME 
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube)](https://www.youtube.com/@caseyrhodes01)
