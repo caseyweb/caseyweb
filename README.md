@@ -1,55 +1,31 @@
+### Hi there! 👋 
+I'm `caseyweb` (Caseyrhodes), a 19 year developer passionate about AI, chatbots and coding. I love working on projects related to WhatsApp bots, AI-driven solutions and open-source technologies. Currently, I'm focusing on enhancing my `CASEYRHODES-XMD` project.
 
-<p align="center"> 
-<up A simple WhatsApp User Bot Coded By CASEYRHODES❤️</u>
+
+### MY STATS:
+<p align="center"><a href="https://github.com/caseyweb/followers"><img title="Followers" src="https://img.shields.io/github/followers/caseyweb?color=red&style=flat-square"></a></p>
+<p align="center"><a href="https://komarev.com/ghpvc/?username=caseyweb&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=Dark-Xploit&color=green&style=flat-square&label=Profile+View"></a>
 </p>
-<p align="center">
-<img src="https://files.catbox.moe/yedfbr.jpg"/>       
-<p align="center">
+<p align="center"><a href="https://github.com/caseyweb"><img src="https://github-readme-stats.vercel.app/api?username=Dark-Xploit&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/caseyweb"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Xploit&theme=radical&layout=compact"></a></p>
+
+<img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=caseyweb&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+
+### GITHUB TROPHIES
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=caseyweb)
 
 
 
-  #CASEYRHODES-INFO
+### TOP CONTRIBUTIONS
+![](https://github-contributor-stats.vercel.app/api?username=Dark-Xploit&limit=5&theme=black&combine_all_yearly_contributions=true)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=caseywebt&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-## 𝑭𝑶𝑳𝑳𝑶𝑾 𝑴𝒀 𝑮𝑰𝑻𝑯𝑼𝑩 𝑨𝑪𝑪𝑶𝑼𝑵𝑻
-
-
- 
- <a href="https://github.com/caseyweb"><img title="CARLTECH" src="https://img.shields.io/badge/ON-GITHUB-h?color=black&style=for-the-badge&logo=github" width="250" height="42.54"/></a></p>
-
-
-
-## 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝑴𝑬 𝑶𝑵 𝑾𝑯𝑨𝑻𝑺𝑨𝑷𝑷
-
-
-  <a href="https://wa.me/+254112192119"><img title="ON-WHATSAPP" src="https://img.shields.io/badge/ON-WHATSAPP-h?color=green&style=for-the-badge&logo=whatsapp" width="255" height="39.54"/></a></p>
-
-
-
-## 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝑴𝑬 𝑶𝑵 𝑻𝑬𝑳𝑬𝑮𝑹𝑨𝑴
-
-
- 
- <a href="https://t.me.caseyrhodes001"><img title="ON-TELEGRAM" src="https://img.shields.io/badge/ON-TELEGRAM-h?color=blue&style=for-the-badge&logo=telegram" width="255" height="38.54"/></a></p>
-
-
-
-## 𝑺𝑼𝑷𝑷𝑶𝑹𝑻 𝑩𝒀 𝑭𝑶𝑳𝑳𝑶𝑾𝑰𝑵𝑮 𝐎𝐔𝐑 𝑾𝑯𝑨𝑻𝑺𝑨𝑷𝑷 𝑪𝑯𝑨𝑵𝑵𝑬𝑳
-
-
-
- 
- <a href="https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E"><img title="OUR-WHATSAPP CHANNEL" src="https://img.shields.io/badge/OUR-WHATSAPP CHANNEL-h?color=green&style=for-the-badge&logo=whatsapp" width="280" height="38.45"/></a></p>
-
-
-
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
-
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=25&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+CASEYRHODES-+MD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+CASEYRHODES ❤️+MD+TECHS;RELEASED+DATE+07%2F7%2F2024."                               alt="Typing SVG" /></a>
-</p> 
+### CONNECT WITH ME 
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube)](https://www.youtube.com/@caseyrhodes01)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/caseyrhodes)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/caseyrhodes001)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/caseyweb)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@caseyrhodes1)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/254112192119) 
