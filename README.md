@@ -4,10 +4,10 @@ I'm `caseyweb` (Caseyrhodes), a 19 year developer passionate about AI, chatbots 
 
 ### MY STATS:
 <p align="center"><a href="https://github.com/caseyweb/followers"><img title="Followers" src="https://img.shields.io/github/followers/caseyweb?color=red&style=flat-square"></a></p>
-<p align="center"><a href="https://komarev.com/ghpvc/?username=caseyweb&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=Dark-Xploit&color=green&style=flat-square&label=Profile+View"></a>
+<p align="center"><a href="https://komarev.com/ghpvc/?username=caseyweb&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=caseyweb&color=green&style=flat-square&label=Profile+View"></a>
 </p>
-<p align="center"><a href="https://github.com/caseyweb"><img src="https://github-readme-stats.vercel.app/api?username=Dark-Xploit&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/caseyweb"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Xploit&theme=radical&layout=compact"></a></p>
+<p align="center"><a href="https://github.com/caseyweb"><img src="https://github-readme-stats.vercel.app/api?username=caseyweb&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/caseyweb"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caseyweb&theme=radical&layout=compact"></a></p>
 
 <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=caseyweb&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 
@@ -17,7 +17,7 @@ I'm `caseyweb` (Caseyrhodes), a 19 year developer passionate about AI, chatbots 
 
 
 ### TOP CONTRIBUTIONS
-![](https://github-contributor-stats.vercel.app/api?username=Dark-Xploit&limit=5&theme=black&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=caseyweb&limit=5&theme=black&combine_all_yearly_contributions=true)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=caseywebt&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
